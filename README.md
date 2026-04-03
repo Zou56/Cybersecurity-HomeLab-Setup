@@ -60,6 +60,6 @@ msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 ## 👨‍💻 Author
 **Ibnu Restu Pamungkas**
 *Informatics Student at Universitas Majalengka*
-[LinkedIn](www.linkedin.com/in/ibnu-restu-pamungkas-989750299) | [Instagram](https://www.instagram.com/r.pamungkasss/)
+[LinkedIn](https://www.linkedin.com/in/ibnu-restu-pamungkas-989750299) | [Instagram](https://www.instagram.com/r.pamungkasss/)
 
 > **⚠️ Disclaimer:** This project is for educational purposes only. I am not responsible for any misuse of the information provided in this repository.
